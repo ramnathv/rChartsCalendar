@@ -1,0 +1,12 @@
+Package: rChartsCalendar
+Type: Package
+Title: rCharts binding for Cal-Heatmap based on d3.js
+Version: 0.1
+Date: 2013-12-15
+Author: Ramnath Vaidyanathan
+Maintainer: Ramnath Vaidyanathan <ramnath.vaidya@gmail.com>
+License: What license is it under?
+Imports:
+  rCharts
+Collate:
+  rChartsCalendar.R

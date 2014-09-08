@@ -6,7 +6,7 @@ You can install it from `github` using `devtools`.
 
 ```S
 library(devtools)
-install_github("ramnathv/rCharts@dev")
+install_github("ramnathv/rChart")
 install_github("ramnathv/rChartsCalendar")
 ```
 
